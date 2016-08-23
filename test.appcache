@@ -1,0 +1,11 @@
+CACHE MANIFEST
+# v8
+index.html
+style.css
+bower_components/bootstrap/dist/css/bootstrap.min.css
+placas.json
+checklist.json
+manifest.json
+bower_components/jquery/dist/jquery.min.js
+bower_components/bootstrap/dist/js/bootstrap.min.js
+bower_components/twitter-bootstrap-wizard/jquery.bootstrap.wizard.min.js

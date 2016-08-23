@@ -1,0 +1,29 @@
+.title{
+	text-align: center;
+	margin: 30px 0;
+}
+.option {
+    border-radius: 7px;
+    padding: 10px;
+    text-align: center;
+    color: #fff;
+    background: #777;
+    font-weight: 600;
+    font-size: 48px;
+    display: block;
+    width:100%;
+}
+
+.error_block{
+	display: none;
+}
+
+.option.active{
+    border: 5px solid #000;
+}
+.option.ok{
+	background:green;
+}
+.option.error{
+	background:red;
+}
