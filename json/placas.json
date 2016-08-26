@@ -1,0 +1,11 @@
+tipos_carga = [
+		  { type:1,
+			  placas:["ABC-111","DEF-111","GHI-111"]
+		  },
+		  { type:2,
+			  placas:["ABC-222","DEF-222","GHI-222"]
+		  },
+		  { type:3,
+			  placas:["ABC-3333","DEF-333","GHI-333"]
+		  }
+		]

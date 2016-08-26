@@ -1,0 +1,23 @@
+{
+  "short_name": "Checklist - MVP",
+  "name": "MVP Checklist Rivelli",
+  "icons": [
+    {
+      "src": "logo-rivelli.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "logo-rivelli.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "logo-rivelli.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/#",
+  "display": "standalone"
+}

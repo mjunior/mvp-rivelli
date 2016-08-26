@@ -1,0 +1,48 @@
+checklist = { 
+	INFO:{
+		tipo_carga: "",
+		placa: "",
+	},
+	DOCUMENTO_VEICULO:{
+		id:1,
+	  	title:"Documentos do veículo",
+		error:false,
+		correct:false,
+		error_description: "N/A"
+	},
+	DOCUMENTO_CONDUTOR:{
+		id:2,
+	  	title:"Documentos do condutor",
+		error:false,
+		correct:false,
+		error_description: "N/A"
+  	},
+  	LUZ_FREIO:{ 
+		id:3,
+	  	title:"Luz de freio",
+		error:false,
+		correct:false,
+		error_description: "N/A"
+  	},
+  	SETAS_DIANTEIRAS:{
+  		id:4,
+	  	title:"Setas dianteiras",
+		error:false,
+		correct:false,
+		error_description: "N/A",		  
+  	},
+  	SETAS_TRASEIRAS:{
+  		id:5,
+	  	title:"Setas traseiras",
+		error:false,
+		correct:false,
+		error_description: "N/A"
+  	},
+  	LIMPADOR_PARABRISAS:{
+  		id:6,
+	  	title:"Limpador de para-brisas",
+		error:false,
+		correct:false,
+		error_description: "N/A"
+	}
+}
